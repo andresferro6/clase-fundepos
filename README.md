@@ -19,3 +19,6 @@ python primeraclase.py
 ```
 
 Para el notebook, ábrelo en Jupyter o VS Code y ejecuta las celdas.
+
+
+Nuevo Cambio profe
